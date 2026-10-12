@@ -25,7 +25,7 @@ spec:
 
         - name: backend
 
-          image: YOUR_DOCKERHUB_USERNAME/student-task-backend:latest
+          image: yashkewte07/backend-img
 
           imagePullPolicy: Always
 
